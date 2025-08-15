@@ -41,7 +41,7 @@ Se consumen directamente desde el repositorio oficial (Alura LATAM):
 5. Los exportables (CSV/PNG) se guardan en la carpeta `outputs/` (si está habilitado en el notebook).
 
 > Si vas a usar GitHub, agrega un botón “Open in Colab”:  
-> `https://colab.research.google.com/github/Flacoca1970/Desafios_1/blob/main/AluraStoreLatam_Desafio_1.ipynb`
+> `https://colab.research.google.com/github/Flacoca1970/Desafios_1/blob/main/AluraStoreLatam_Desafio_3.ipynb`
 
 ---
 
