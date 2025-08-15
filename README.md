@@ -73,7 +73,7 @@ Se consumen directamente desde el repositorio oficial (Alura LATAM):
 ## 📦 Estructura sugerida del repositorio
 ```
 .
-├── AluraStoreLatam_Desafio_1.ipynb        # Notebook principal
+├── AluraStoreLatam_Desafio_3.ipynb        # Notebook principal
 ├── outputs/                                # CSV y PNG generados (opcional)
 ├── requirements.txt                        # Dependencias mínimas
 └── README.md
