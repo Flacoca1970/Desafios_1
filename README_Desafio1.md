@@ -114,7 +114,7 @@ Datos provistos por **Alura LATAM — Challenge 1**. Este proyecto se realiza co
 
 **Autor:** David González  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/https://colab.research.google.com/github/Flacoca1970/Flacoca1970/blob/main/AluraStoreLatam_Desafio_1_Entrega_Final.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/https://colab.research.google.com/github/Flacoca1970/Flacoca1970/blob/main/AluraStoreLatam_Desafio_1_Entrega_Fina3.ipynb)
 
 > Reemplaza `Flacoca1970/Desafios_1` por tu repositorio real.
 
