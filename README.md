@@ -79,7 +79,7 @@ Se consumen directamente desde el repositorio oficial (Alura LATAM):
 └── README.md
 ```
 
-Archivo `requirements.txt` sugerido:
+Librerias requeridas y utilizadas:
 ```
 pandas
 matplotlib
